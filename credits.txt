@@ -4,3 +4,4 @@
 - ops by cables user simod (https://cables.gl/user/simod)
 - ops by cables user tim (https://cables.gl/user/tim)
 - tonaljs by tonaljs (https://github.com/danigb/tonal)
+- Photoshop math GLSL shaders by Romain Dura (https://mouaif.wordpress.com/2009/01/05/photoshop-math-with-glsl-shaders/)

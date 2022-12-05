@@ -8,3 +8,7 @@ MIT:
 
 - glmatrix by toji (https://github.com/toji/gl-matrix)
 - tonaljs by tonaljs (https://github.com/danigb/tonal)
+
+Public Domain:
+
+- Photoshop math GLSL shaders by Romain Dura (https://mouaif.wordpress.com/2009/01/05/photoshop-math-with-glsl-shaders/)
