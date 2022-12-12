@@ -7,4 +7,5 @@ Additional code from contributors and libraries in this export are licenced as f
 MIT:
 
 - glmatrix by toji (https://github.com/toji/gl-matrix)
+- colorRick (https://github.com/pandrr/colorRick)
 - hammer.js (https://hammerjs.github.io/)
